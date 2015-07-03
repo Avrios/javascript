@@ -12,7 +12,7 @@
   1. [Hoisting](#hoisting)
   1. [Comparison Operators & Equality](#comparison-operators--equality)
   1. [Blocks](#blocks)
-  1. [Comments](#comments)§
+  1. [Comments](#comments)
   1. [Whitespace](#whitespace)
   1. [Commas](#commas)
   1. [Semicolons](#semicolons)
