@@ -7,11 +7,11 @@
   // Define globals exposed by modern browsers.
   "browser": true,
 
-  // Define globals exposed by jQuery.
-  "jquery": true,
-
   // Do not allow ES6.
   "esnext": false,
+
+  // This option defines globals that are usually used for logging poor-man's debugging: console, alert, etc
+  "devel": true,
 
   /*
    * ENFORCING OPTIONS

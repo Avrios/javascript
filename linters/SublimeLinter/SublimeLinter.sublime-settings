@@ -22,8 +22,8 @@
       // Define globals exposed by modern browsers.
       "browser": true,
 
-      // Define globals exposed by jQuery.
-      "jquery": true,
+      // This option defines globals that are usually used for logging poor-man's debugging: console, alert, etc
+      "devel": true,
 
       /*
        * ENFORCING OPTIONS
